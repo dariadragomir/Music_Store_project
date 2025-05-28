@@ -102,6 +102,8 @@ Un utilizator al aplicației (în special clientul, din perspectiva interacțiun
 - Filtrare produse cu preț cuprins într-un anumit interval
 - Raport clienți fideli
 - Grupare instrumente după brand
+- Raport vânzări dintr-o anumită perioadă de timp
+- Procesare comandă
 
 ### Persistența datelor:
 
